@@ -1,2 +1,2 @@
-# Part 2
-Catapult and the rubber band
+# Part 3
+Appearing Boxes
